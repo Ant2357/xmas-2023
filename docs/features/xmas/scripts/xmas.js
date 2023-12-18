@@ -9,7 +9,6 @@ const asciiArtList = [
 ／         ＼
 ^^^^^| |^^^^^
      | |
-1
       `,
       `
       ★
@@ -20,7 +19,6 @@ const asciiArtList = [
 ／         ＼
 ^^^^^| |^^^^^
      | |
-2
       `,
       `
       ★
@@ -31,7 +29,6 @@ const asciiArtList = [
 ／         ＼
 ^^^^^| |^^^^^
      | |
-3
       `
       ,
       `
@@ -43,7 +40,6 @@ const asciiArtList = [
 ／  @ ** i ＼
 ^^^^^| |^^^^^
      | |
-4
       `
 ];
 
