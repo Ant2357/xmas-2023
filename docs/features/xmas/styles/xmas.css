@@ -1,0 +1,12 @@
+
+.xmas {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  margin: 0;
+  background-color: #1f1f1f;
+  color: white;
+  font-family: 'Courier New', monospace;
+  font-size: 1rem;
+}
