@@ -9,5 +9,8 @@
   },
   "devDependencies": {
     "vite": "^5.0.8"
+  },
+  "dependencies": {
+    "pure-snow.js": "^2.1.0"
   }
 }

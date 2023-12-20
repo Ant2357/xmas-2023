@@ -5,14 +5,12 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="./features/xmas/styles/xmas.css">
 </head>
-<body class="xmas">
-  <pre id="ascii-art"></pre>
+<body>
+  <div id="snow" data-count="200"></div>
+  <div class="xmas">
+    <pre id="ascii-art"></pre>
+  </div>
 
-  <script>
-    displayNextAsciiArt()
-    // 1秒ごとにアスキーアートを変更
-    setInterval(displayNextAsciiArt, 1000);
-  </script>
-  <script type="module" src="./features/xmas/scripts/xmas.js"></script>
+  <script type="module" src="./main.js"></script>
 </body>
 </html>
