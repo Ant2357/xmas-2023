@@ -9,6 +9,10 @@ const asciiArtList = [
 ／         ＼
 ^^^^^| |^^^^^
      | |
+   ＿＿＿
+  / ,  ⊃ヽ＿＿
+ ｜, 3/        ヽ
+／\`ー/＿＿＿＿／
 
 Merry Christmas
      2023
@@ -22,6 +26,10 @@ Merry Christmas
 ／         ＼
 ^^^^^| |^^^^^
      | |
+   ＿＿＿
+  / ,  ⊃ヽ＿＿
+ ｜, 3/        ヽ
+／\`ー/＿＿＿＿／
 
 Merry Christmas
      2023
@@ -35,6 +43,10 @@ Merry Christmas
 ／         ＼
 ^^^^^| |^^^^^
      | |
+   ＿＿＿
+  / ,  ⊃ヽ＿＿
+ ｜, 3/        ヽ
+／\`ー/＿＿＿＿／
 
 Merry Christmas
      2023
@@ -49,6 +61,10 @@ Merry Christmas
 ／  @ ** i ＼
 ^^^^^| |^^^^^
      | |
+   ＿＿＿
+  / ,  ⊃ヽ＿＿
+ ｜, 3/        ヽ
+／\`ー/＿＿＿＿／
 
 Merry Christmas
      2023
