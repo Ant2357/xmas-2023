@@ -1,6 +1,9 @@
 
 const asciiArtList = [
       `
+  Merry Christmas
+       2023
+
         ★
       ／&＼
      ／ @ ＼
@@ -13,11 +16,11 @@ const asciiArtList = [
     / ,  ⊃ヽ＿＿
    ｜, 3/        ヽ
   ／\`ー/＿＿＿＿／
-
-  Merry Christmas
-       2023
       `,
       `
+  Merry Christmas
+       2023
+
         ★
       ／&＼
      ／p@i＼
@@ -30,11 +33,11 @@ const asciiArtList = [
     / ,  ⊃ヽ＿＿
    ｜, 3/        ヽ
   ／\`ー/＿＿＿＿／
-
-  Merry Christmas
-       2023
       `,
       `
+  Merry Christmas
+       2023
+
         ★
       ／&＼
      ／p@i＼
@@ -47,12 +50,12 @@ const asciiArtList = [
     / ,  ⊃ヽ＿＿
    ｜, 3/        ヽ
   ／\`ー/＿＿＿＿／
-
-  Merry Christmas
-       2023
       `
       ,
       `
+  Merry Christmas
+       2023
+
         ★
       ／&＼
      ／p@i＼
@@ -65,9 +68,6 @@ const asciiArtList = [
     / ,  ⊃ヽ＿＿
    ｜, 3/        ヽ
   ／\`ー/＿＿＿＿／
-
-  Merry Christmas
-       2023
       `
 ];
 
